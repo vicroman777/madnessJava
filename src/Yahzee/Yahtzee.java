@@ -96,8 +96,8 @@ public class Yahtzee extends Application {
                 }
                 if (rolls == 2) {
                     for (int i = 0; i < 6; i++) {
-                        // a.getChildren().get(i).setDisable(true);
-                        // game.setDisable(true);
+                        a.getChildren().get(i).setDisable(true);
+                         game.setDisable(true);
                     }
                 }
 

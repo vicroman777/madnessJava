@@ -1,5 +1,7 @@
+package e4e5;
+
 public interface IntQueue extends Iterable<Integer> {
-	 public int size();                     // current queue size 
+	 	public int size();                     // current queue size
 	   public boolean isEmpty();              // true if queue is empty 
 	   public void enqueue(int element);   // add element at end of queue 
 	   public int dequeue();               // return and remove first element. 

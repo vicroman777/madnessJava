@@ -1,3 +1,5 @@
+package Snowman;
+
 import javafx.animation.Animation;
 import javafx.animation.Transition;
 import javafx.animation.TranslateTransition;

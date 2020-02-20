@@ -1,11 +1,10 @@
-/**
+package e1e2e3; /**
  * StringSort.java
  * 13 jan 2017
  */
 
 import java.util.Arrays;
 import java.util.Comparator;
-import java.util.stream.Stream;
 
 /**
  * @author jlnmsi

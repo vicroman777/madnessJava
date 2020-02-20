@@ -1,7 +1,7 @@
+package e4e5;
+
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
-
-import java.util.Random;
 
 import static org.junit.jupiter.api.Assertions.*;
 

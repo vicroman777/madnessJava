@@ -1,12 +1,10 @@
-/**
- * FunctionPointers.java
+package e1e2e3; /**
+ * e1e2.FunctionPointers.java
  * 13 jan 2017
  */
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.concurrent.Flow;
 import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
